@@ -1,6 +1,6 @@
 Alle Summen sollen eingefügt werden. Notwendige Kenntnisse:
 
-    SUMME-Funktion oder Formeln (unser Artikel dazu)
+    SUMME-Funktion oder Formeln
     Kopieren mit „drag and drop“
     Ohne Format kopieren
 
